@@ -20,7 +20,8 @@ MAIN SCREEN:
 ![Screenshot (9)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
 
 TAKING ATTENDANCE:
-![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
+![Screenshot 2021-05-25 124516](https://user-images.githubusercontent.com/79133901/132955412-1401bef1-b5a9-494c-a4ba-22f5081c18c1.jpg)
+![ss](https://user-images.githubusercontent.com/79133901/132955414-9fd14b3e-b426-4a2f-a651-88ee80ffa8ee.jpg)
 
 SHOWING ATTENDANCE TAKEN:
 ![Screenshot (11)](https://user-images.githubusercontent.com/37211676/58502151-9884c080-81a3-11e9-9a90-fec29940ee5a.png)
